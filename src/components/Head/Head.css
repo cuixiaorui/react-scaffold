@@ -1,0 +1,11 @@
+.normal {
+  display: flex;
+  justify-content: space-between;
+  height: 55px;
+  background: green;
+  color: white;
+}
+
+.title {
+  color: #ffffff;
+}

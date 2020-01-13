@@ -1,0 +1,11 @@
+exports[`home page > snapshots #0`] = `
+<div data-testid="home">
+  <div data-testid="home-nav" class="sc-bdVaJa fqDwql">
+    <a data-testid="home-login-button" href="#/body">入门</a>
+  </div>
+  <div>
+    <h1 data-testid="home-title">react scaffold</h1>
+    <p data-testid="home-describe">这是一个前端 react 脚手架</p>
+  </div>
+</div>
+`;
